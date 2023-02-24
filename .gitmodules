@@ -1,0 +1,12 @@
+[submodule "Systemy operacyjne/pracownie/pracownia 1 - malloc"]
+	path = Systemy operacyjne/pracownie/pracownia 1 - malloc
+	url = https://github.com/ii-ask/malloc-JakubMikolajczyk
+[submodule "Systemy operacyjne/pracownie/pracownia 2 - malloc"]
+	path = Systemy operacyjne/pracownie/pracownia 2 - malloc
+	url = https://github.com/ii-ask/malloc-JakubMikolajczyk
+[submodule "Systemy operacyjne/pracownie/pracownia 1 - shell"]
+	path = Systemy operacyjne/pracownie/pracownia 1 - shell
+	url = https://github.com/ii-ask/shell21-JakubMikolajczyk
+[submodule "Systemy operacyjne/pracownie/pracownia 3 - ext2"]
+	path = Systemy operacyjne/pracownie/pracownia 3 - ext2
+	url = https://github.com/ii-ask/ext2-JakubMikolajczyk
