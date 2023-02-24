@@ -1,0 +1,19 @@
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/3/out/production/3/tmp/src/hello_world.ml" 1 0 4 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/3/out/production/3/tmp/src/hello_world.ml" 1 0 5
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/3/out/production/3/tmp/src/hello_world.ml" 1 0 8 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/3/out/production/3/tmp/src/hello_world.ml" 1 0 21
+type(
+  (unit, Format.formatter, unit) format -> unit
+)
+ident(
+  int_ref Stdlib.Format.printf "format.mli" 1241 47848 47848 "format.mli" 1241 47848 47895
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/3/out/production/3/tmp/src/hello_world.ml" 1 0 22 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/3/out/production/3/tmp/src/hello_world.ml" 1 0 37
+type(
+  (unit, Format.formatter, unit) format
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/3/out/production/3/tmp/src/hello_world.ml" 1 0 8 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/3/out/production/3/tmp/src/hello_world.ml" 1 0 37
+type(
+  unit
+)

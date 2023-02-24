@@ -1,0 +1,1847 @@
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 6 67 75 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 6 67 92
+type(
+  formula -> string
+)
+ident(
+  def string_of_formula "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 6 67 67 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 6 67 93 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 6 67 94
+type(
+  formula
+)
+ident(
+  def f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 7 97 99 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 370
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 7 97 105 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 7 97 106
+type(
+  formula
+)
+ident(
+  int_ref f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 6 67 93 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 6 67 94
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 8 112 116 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 8 112 121
+type(
+  formula
+)
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 8 112 125 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 8 112 130
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 9 131 138 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 9 131 141
+type(
+  string
+)
+ident(
+  def v "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 9 131 145 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 9 131 146
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 9 131 135 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 9 131 141
+type(
+  formula
+)
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 9 131 145 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 9 131 146
+type(
+  string
+)
+ident(
+  int_ref v "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 9 131 138 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 9 131 141
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 10 147 155 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 10 147 156
+type(
+  formula
+)
+ident(
+  def l "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 10 147 163 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 370
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 10 147 157 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 10 147 158
+type(
+  formula
+)
+ident(
+  def r "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 10 147 163 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 370
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 10 147 151 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 10 147 159
+type(
+  formula
+)
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 10 147 169 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 10 147 170
+type(
+  formula
+)
+ident(
+  int_ref l "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 10 147 155 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 10 147 156
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 202 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 203
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 204 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 205
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 198 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 206
+type(
+  formula
+)
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 210 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 213
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 214 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 215
+type(
+  string -> string -> string
+)
+ident(
+  int_ref Stdlib.( ^ ) "stdlib.mli" 699 26389 26389 "stdlib.mli" 699 26389 26427
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 217 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 234
+type(
+  formula -> string
+)
+ident(
+  int_ref string_of_formula "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 6 67 75 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 6 67 92
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 235 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 236
+type(
+  formula
+)
+ident(
+  int_ref l "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 10 147 155 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 10 147 156
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 216 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 237
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 238 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 239
+type(
+  string -> string -> string
+)
+ident(
+  int_ref Stdlib.( ^ ) "stdlib.mli" 699 26389 26389 "stdlib.mli" 699 26389 26427
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 240 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 248
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 250 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 251
+type(
+  string -> string -> string
+)
+ident(
+  int_ref Stdlib.( ^ ) "stdlib.mli" 699 26389 26389 "stdlib.mli" 699 26389 26427
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 253 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 270
+type(
+  formula -> string
+)
+ident(
+  int_ref string_of_formula "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 6 67 75 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 6 67 92
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 271 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 272
+type(
+  formula
+)
+ident(
+  int_ref r "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 10 147 157 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 10 147 158
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 252 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 273
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 240 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 273
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 216 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 273
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 210 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 11 176 273
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 299 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 302
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 296 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 302
+type(
+  formula
+)
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 305 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 310
+type(
+  formula
+)
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 296 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 310
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 315 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 332
+type(
+  formula -> string
+)
+ident(
+  int_ref string_of_formula "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 6 67 75 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 6 67 92
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 333 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 334
+type(
+  formula
+)
+ident(
+  int_ref l "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 10 147 155 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 10 147 156
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 314 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 335
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 336 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 337
+type(
+  string -> string -> string
+)
+ident(
+  int_ref Stdlib.( ^ ) "stdlib.mli" 699 26389 26389 "stdlib.mli" 699 26389 26427
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 338 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 345
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 347 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 348
+type(
+  string -> string -> string
+)
+ident(
+  int_ref Stdlib.( ^ ) "stdlib.mli" 699 26389 26389 "stdlib.mli" 699 26389 26427
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 350 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 367
+type(
+  formula -> string
+)
+ident(
+  int_ref string_of_formula "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 6 67 75 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 6 67 92
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 368 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 369
+type(
+  formula
+)
+ident(
+  int_ref r "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 10 147 157 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 10 147 158
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 349 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 370
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 338 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 370
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 314 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 370
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 10 147 163 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 370
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 7 97 99 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 12 274 370
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 14 372 376 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 14 372 392
+type(
+  Format.formatter -> formula -> unit
+)
+ident(
+  def pp_print_formula "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 17 455 455 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 14 372 393 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 14 372 397
+type(
+  Format.formatter
+)
+ident(
+  def fmtr "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 14 372 398 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 15 402 453
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 14 372 398 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 14 372 399
+type(
+  formula
+)
+ident(
+  def f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 15 402 404 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 15 402 453
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 15 402 404 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 15 402 426
+type(
+  Format.formatter -> string -> unit
+)
+ident(
+  int_ref Stdlib.Format.pp_print_string "format.mli" 220 9080 9080 "format.mli" 220 9080 9129
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 15 402 427 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 15 402 431
+type(
+  Format.formatter
+)
+ident(
+  int_ref fmtr "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 14 372 393 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 14 372 397
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 15 402 433 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 15 402 450
+type(
+  formula -> string
+)
+ident(
+  int_ref string_of_formula "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 6 67 75 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 6 67 92
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 15 402 451 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 15 402 452
+type(
+  formula
+)
+ident(
+  int_ref f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 14 372 398 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 14 372 399
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 15 402 432 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 15 402 453
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 15 402 404 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 15 402 453
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 19 494 498 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 19 494 509
+type(
+  'a * 'b -> 'a
+)
+ident(
+  def assumptions "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 23 550 550 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 19 494 510 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 19 494 513
+type(
+  'a * 'b
+)
+ident(
+  def thm "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 20 516 518 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 21 533 548
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 20 516 524 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 20 516 527
+type(
+  'a * 'b
+)
+ident(
+  int_ref thm "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 19 494 510 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 19 494 513
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 21 533 538 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 21 533 539
+type(
+  'a
+)
+ident(
+  def a "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 21 533 547 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 21 533 548
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 21 533 541 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 21 533 542
+type(
+  'b
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 21 533 537 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 21 533 543
+type(
+  'a * 'b
+)
+type(
+  'a * 'b
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 21 533 547 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 21 533 548
+type(
+  'a
+)
+ident(
+  int_ref a "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 21 533 538 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 21 533 539
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 20 516 518 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 21 533 548
+type(
+  'a
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 23 550 554 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 23 550 565
+type(
+  'a * 'b -> 'b
+)
+ident(
+  def consequence "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 606 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 23 550 566 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 23 550 569
+type(
+  'a * 'b
+)
+ident(
+  def thm "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 24 572 574 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 25 589 604
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 24 572 580 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 24 572 583
+type(
+  'a * 'b
+)
+ident(
+  int_ref thm "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 23 550 566 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 23 550 569
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 25 589 594 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 25 589 595
+type(
+  'a
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 25 589 597 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 25 589 598
+type(
+  'b
+)
+ident(
+  def c "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 25 589 603 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 25 589 604
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 25 589 593 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 25 589 599
+type(
+  'a * 'b
+)
+type(
+  'a * 'b
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 25 589 603 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 25 589 604
+type(
+  'b
+)
+ident(
+  int_ref c "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 25 589 597 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 25 589 598
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 24 572 574 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 25 589 604
+type(
+  'b
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 610 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 626
+type(
+  Format.formatter -> formula list * formula -> unit
+)
+ident(
+  def pp_print_theorem "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 47 1104 1104 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 627 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 631
+type(
+  Format.formatter
+)
+ident(
+  def fmtr "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 632 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 45 1080 1102
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 632 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 635
+type(
+  formula list * formula
+)
+ident(
+  def thm "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 28 638 640 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 45 1080 1102
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 29 659 661 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 29 659 674
+type(
+  Format.formatter -> int -> unit
+)
+ident(
+  int_ref Stdlib.Format.pp_open_hvbox "format.mli" 192 8214 8214 "format.mli" 192 8214 8258
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 29 659 675 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 29 659 679
+type(
+  Format.formatter
+)
+ident(
+  int_ref fmtr "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 627 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 631
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 29 659 680 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 29 659 681
+type(
+  int
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 29 659 661 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 29 659 681
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 30 683 697 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 30 683 708
+type(
+  formula list * formula -> formula list
+)
+ident(
+  int_ref assumptions "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 19 494 498 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 19 494 509
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 30 683 709 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 30 683 712
+type(
+  formula list * formula
+)
+ident(
+  int_ref thm "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 632 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 635
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 30 683 697 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 30 683 712
+type(
+  formula list
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 31 718 722 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 31 718 724
+type(
+  formula list
+)
+type(
+  formula list
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 31 718 728 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 31 718 730
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 32 731 735 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 32 731 736
+type(
+  formula
+)
+ident(
+  def f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 33 746 750 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 38 899 925
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 32 731 740 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 32 731 742
+type(
+  formula list
+)
+ident(
+  def fs "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 33 746 750 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 38 899 925
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 32 731 735 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 32 731 742
+type(
+  formula list
+)
+type(
+  formula list
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 33 746 750 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 33 746 766
+type(
+  Format.formatter -> formula -> unit
+)
+ident(
+  int_ref pp_print_formula "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 14 372 376 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 14 372 392
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 33 746 767 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 33 746 771
+type(
+  Format.formatter
+)
+ident(
+  int_ref fmtr "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 627 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 631
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 33 746 772 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 33 746 773
+type(
+  formula
+)
+ident(
+  int_ref f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 32 731 735 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 32 731 736
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 33 746 750 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 33 746 773
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 34 775 779 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 34 775 781
+type(
+  formula list
+)
+ident(
+  int_ref fs "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 32 731 740 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 32 731 742
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 34 775 785 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 34 775 794
+type(
+  (formula -> unit) -> formula list -> unit
+)
+ident(
+  int_ref Stdlib.List.iter "list.mli" 159 5701 5701 "list.mli" 159 5701 5743
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 34 775 800 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 34 775 801
+type(
+  formula
+)
+ident(
+  def f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 35 805 811 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 37 867 896
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 35 805 811 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 35 805 826
+type(
+  Format.formatter -> string -> unit
+)
+ident(
+  int_ref Stdlib.Format.pp_print_string "format.mli" 220 9080 9080 "format.mli" 220 9080 9129
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 35 805 827 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 35 805 831
+type(
+  Format.formatter
+)
+ident(
+  int_ref fmtr "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 627 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 631
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 35 805 832 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 35 805 835
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 35 805 811 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 35 805 835
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 36 837 843 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 36 837 857
+type(
+  Format.formatter -> unit -> unit
+)
+ident(
+  int_ref Stdlib.Format.pp_print_space "format.mli" 273 11066 11066 "format.mli" 273 11066 11112
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 36 837 858 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 36 837 862
+type(
+  Format.formatter
+)
+ident(
+  int_ref fmtr "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 627 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 631
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 36 837 863 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 36 837 865
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 36 837 843 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 36 837 865
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 37 867 873 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 37 867 889
+type(
+  Format.formatter -> formula -> unit
+)
+ident(
+  int_ref pp_print_formula "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 14 372 376 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 14 372 392
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 37 867 890 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 37 867 894
+type(
+  Format.formatter
+)
+ident(
+  int_ref fmtr "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 627 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 631
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 37 867 895 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 37 867 896
+type(
+  formula
+)
+ident(
+  int_ref f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 34 775 800 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 34 775 801
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 37 867 873 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 37 867 896
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 36 837 843 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 37 867 896
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 35 805 811 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 37 867 896
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 34 775 795 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 37 867 897
+type(
+  formula -> unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 34 775 785 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 37 867 897
+type(
+  formula list -> unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 34 775 779 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 37 867 897
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 38 899 903 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 38 899 917
+type(
+  Format.formatter -> unit -> unit
+)
+ident(
+  int_ref Stdlib.Format.pp_print_space "format.mli" 273 11066 11066 "format.mli" 273 11066 11112
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 38 899 918 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 38 899 922
+type(
+  Format.formatter
+)
+ident(
+  int_ref fmtr "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 627 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 631
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 38 899 923 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 38 899 925
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 38 899 903 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 38 899 925
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 34 775 779 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 38 899 925
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 33 746 750 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 38 899 925
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 30 683 685 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 39 926 931
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 40 933 935 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 40 933 947
+type(
+  Format.formatter -> unit -> unit
+)
+ident(
+  int_ref Stdlib.Format.pp_open_hbox "format.mli" 169 7512 7512 "format.mli" 169 7512 7556
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 40 933 948 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 40 933 952
+type(
+  Format.formatter
+)
+ident(
+  int_ref fmtr "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 627 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 631
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 40 933 953 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 40 933 955
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 40 933 935 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 40 933 955
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 41 957 959 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 41 957 974
+type(
+  Format.formatter -> string -> unit
+)
+ident(
+  int_ref Stdlib.Format.pp_print_string "format.mli" 220 9080 9080 "format.mli" 220 9080 9129
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 41 957 975 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 41 957 979
+type(
+  Format.formatter
+)
+ident(
+  int_ref fmtr "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 627 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 631
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 41 957 980 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 41 957 985
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 41 957 959 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 41 957 985
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 42 987 989 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 42 987 1003
+type(
+  Format.formatter -> unit -> unit
+)
+ident(
+  int_ref Stdlib.Format.pp_print_space "format.mli" 273 11066 11066 "format.mli" 273 11066 11112
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 42 987 1004 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 42 987 1008
+type(
+  Format.formatter
+)
+ident(
+  int_ref fmtr "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 627 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 631
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 42 987 1009 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 42 987 1011
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 42 987 989 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 42 987 1011
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 43 1013 1015 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 43 1013 1031
+type(
+  Format.formatter -> formula -> unit
+)
+ident(
+  int_ref pp_print_formula "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 14 372 376 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 14 372 392
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 43 1013 1032 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 43 1013 1036
+type(
+  Format.formatter
+)
+ident(
+  int_ref fmtr "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 627 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 631
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 43 1013 1038 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 43 1013 1049
+type(
+  formula list * formula -> formula
+)
+ident(
+  int_ref consequence "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 23 550 554 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 23 550 565
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 43 1013 1050 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 43 1013 1053
+type(
+  formula list * formula
+)
+ident(
+  int_ref thm "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 632 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 635
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 43 1013 1037 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 43 1013 1054
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 43 1013 1015 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 43 1013 1054
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 44 1056 1058 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 44 1056 1070
+type(
+  Format.formatter -> unit -> unit
+)
+ident(
+  int_ref Stdlib.Format.pp_close_box "format.mli" 165 7379 7379 "format.mli" 165 7379 7423
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 44 1056 1071 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 44 1056 1075
+type(
+  Format.formatter
+)
+ident(
+  int_ref fmtr "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 627 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 631
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 44 1056 1076 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 44 1056 1078
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 44 1056 1058 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 44 1056 1078
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 45 1080 1082 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 45 1080 1094
+type(
+  Format.formatter -> unit -> unit
+)
+ident(
+  int_ref Stdlib.Format.pp_close_box "format.mli" 165 7379 7379 "format.mli" 165 7379 7423
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 45 1080 1095 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 45 1080 1099
+type(
+  Format.formatter
+)
+ident(
+  int_ref fmtr "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 627 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 27 606 631
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 45 1080 1100 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 45 1080 1102
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 45 1080 1082 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 45 1080 1102
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 44 1056 1058 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 45 1080 1102
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 43 1013 1015 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 45 1080 1102
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 42 987 989 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 45 1080 1102
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 41 957 959 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 45 1080 1102
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 40 933 935 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 45 1080 1102
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 30 683 685 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 45 1080 1102
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 29 659 661 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 45 1080 1102
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 28 638 640 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 45 1080 1102
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 47 1104 1108 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 47 1104 1121
+type(
+  'a -> 'a list * 'a
+)
+ident(
+  def by_assumption "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1137 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 47 1104 1122 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 47 1104 1123
+type(
+  'a
+)
+ident(
+  def f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 48 1126 1128 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 48 1126 1135
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 48 1126 1130 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 48 1126 1131
+type(
+  'a
+)
+ident(
+  int_ref f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 47 1104 1122 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 47 1104 1123
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 48 1126 1129 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 48 1126 1132
+type(
+  'a list
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 48 1126 1133 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 48 1126 1134
+type(
+  'a
+)
+ident(
+  int_ref f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 47 1104 1122 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 47 1104 1123
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 48 1126 1128 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 48 1126 1135
+type(
+  'a list * 'a
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1141 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1146
+type(
+  formula -> formula list * formula -> formula list * formula
+)
+ident(
+  def imp_i "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 54 1241 1241 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1147 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1148
+type(
+  formula
+)
+ident(
+  def f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1149 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 52 1208 1239
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1149 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1152
+type(
+  formula list * formula
+)
+ident(
+  def thm "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1158 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 52 1208 1239
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1159 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1170
+type(
+  (formula -> bool) -> formula list -> formula list
+)
+ident(
+  int_ref Stdlib.List.filter "list.mli" 327 10954 10954 "list.mli" 327 10954 11001
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1176 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1177
+type(
+  formula
+)
+ident(
+  def x "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1181 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1187
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1181 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1182
+type(
+  formula
+)
+ident(
+  int_ref x "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1176 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1177
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1183 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1185
+type(
+  formula -> formula -> bool
+)
+ident(
+  int_ref Stdlib.( <> ) "stdlib.mli" 130 5559 5559 "stdlib.mli" 130 5559 5607
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1186 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1187
+type(
+  formula
+)
+ident(
+  int_ref f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1147 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1148
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1181 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1187
+type(
+  bool
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1171 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1188
+type(
+  formula -> bool
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1190 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1201
+type(
+  formula list * formula -> formula list
+)
+ident(
+  int_ref assumptions "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 19 494 498 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 19 494 509
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1202 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1205
+type(
+  formula list * formula
+)
+ident(
+  int_ref thm "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1149 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1152
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1189 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1206
+type(
+  formula list
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1159 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1206
+type(
+  formula list
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 52 1208 1216 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 52 1208 1217
+type(
+  formula
+)
+ident(
+  int_ref f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1147 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1148
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 52 1208 1220 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 52 1208 1231
+type(
+  formula list * formula -> formula
+)
+ident(
+  int_ref consequence "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 23 550 554 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 23 550 565
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 52 1208 1232 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 52 1208 1235
+type(
+  formula list * formula
+)
+ident(
+  int_ref thm "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1149 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1152
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 52 1208 1219 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 52 1208 1236
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 52 1208 1211 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 52 1208 1238
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 51 1155 1158 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 52 1208 1239
+type(
+  formula list * formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 54 1241 1245 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 54 1241 1250
+type(
+  'a list * formula -> 'a list * formula -> 'a list * formula
+)
+ident(
+  def imp_e "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 60 1472 1472 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 54 1241 1251 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 54 1241 1255
+type(
+  'a list * formula
+)
+ident(
+  def thm1 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 54 1241 1256 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 58 1430 1470
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 54 1241 1256 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 54 1241 1260
+type(
+  'a list * formula
+)
+ident(
+  def thm2 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 55 1263 1265 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 58 1430 1470
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 55 1263 1272 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 55 1263 1283
+type(
+  'a list * formula -> formula
+)
+ident(
+  int_ref consequence "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 23 550 554 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 23 550 565
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 55 1263 1284 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 55 1263 1288
+type(
+  'a list * formula
+)
+ident(
+  int_ref thm1 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 54 1241 1251 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 54 1241 1255
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 55 1263 1271 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 55 1263 1289
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1303 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1304
+type(
+  formula
+)
+ident(
+  def l "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1311 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 57 1389 1429
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1305 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1306
+type(
+  formula
+)
+ident(
+  def r "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1311 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 57 1389 1429
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1299 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1307
+type(
+  formula
+)
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1314 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1317
+type(
+  formula -> formula -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1318 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1319
+type(
+  formula
+)
+ident(
+  int_ref l "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1303 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1304
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1321 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1332
+type(
+  'a list * formula -> formula
+)
+ident(
+  int_ref consequence "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 23 550 554 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 23 550 565
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1333 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1337
+type(
+  'a list * formula
+)
+ident(
+  int_ref thm2 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 54 1241 1256 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 54 1241 1260
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1320 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1338
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1314 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1338
+type(
+  bool
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1346 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1357
+type(
+  'a list * formula -> 'a list
+)
+ident(
+  int_ref assumptions "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 19 494 498 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 19 494 509
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1358 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1362
+type(
+  'a list * formula
+)
+ident(
+  int_ref thm1 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 54 1241 1251 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 54 1241 1255
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1345 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1363
+type(
+  'a list
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1364 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1365
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  int_ref Stdlib.( @ ) "stdlib.mli" 823 30483 30483 "stdlib.mli" 823 30483 30524
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1367 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1378
+type(
+  'a list * formula -> 'a list
+)
+ident(
+  int_ref assumptions "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 19 494 498 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 19 494 509
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1379 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1383
+type(
+  'a list * formula
+)
+ident(
+  int_ref thm2 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 54 1241 1256 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 54 1241 1260
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1366 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1384
+type(
+  'a list
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1345 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1384
+type(
+  'a list
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1386 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1387
+type(
+  formula
+)
+ident(
+  int_ref r "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1305 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1306
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1344 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1388
+type(
+  'a list * formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 57 1389 1396 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 57 1389 1404
+type(
+  string -> 'a list * formula
+)
+ident(
+  int_ref Stdlib.failwith "stdlib.mli" 41 1919 1919 "stdlib.mli" 41 1919 1946
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 57 1389 1405 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 57 1389 1429
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 57 1389 1396 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 57 1389 1429
+type(
+  'a list * formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 56 1295 1311 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 57 1389 1429
+type(
+  'a list * formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 58 1430 1437 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 58 1430 1440
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 58 1430 1434 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 58 1430 1440
+type(
+  formula
+)
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 58 1430 1443 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 58 1430 1448
+type(
+  formula
+)
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 58 1430 1434 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 58 1430 1448
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 58 1430 1452 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 58 1430 1460
+type(
+  string -> 'a list * formula
+)
+ident(
+  int_ref Stdlib.failwith "stdlib.mli" 41 1919 1919 "stdlib.mli" 41 1919 1946
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 58 1430 1461 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 58 1430 1470
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 58 1430 1452 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 58 1430 1470
+type(
+  'a list * formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 55 1263 1265 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 58 1430 1470
+type(
+  'a list * formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 60 1472 1476 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 60 1472 1481
+type(
+  'a -> 'b * formula -> 'b * 'a
+)
+ident(
+  def bot_e "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1581 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 60 1472 1482 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 60 1472 1483
+type(
+  'a
+)
+ident(
+  def f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 60 1472 1484 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1576
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 60 1472 1484 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 60 1472 1487
+type(
+  'b * formula
+)
+ident(
+  def thm "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1494 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1576
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1497 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1500
+type(
+  formula -> formula -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1501 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1506
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1508 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1519
+type(
+  'b * formula -> formula
+)
+ident(
+  int_ref consequence "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 23 550 554 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 23 550 565
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1520 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1523
+type(
+  'b * formula
+)
+ident(
+  int_ref thm "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 60 1472 1484 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 60 1472 1487
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1507 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1524
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1497 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1524
+type(
+  bool
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1531 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1542
+type(
+  'b * formula -> 'b
+)
+ident(
+  int_ref assumptions "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 19 494 498 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 19 494 509
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1543 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1546
+type(
+  'b * formula
+)
+ident(
+  int_ref thm "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 60 1472 1484 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 60 1472 1487
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1531 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1546
+type(
+  'b
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1548 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1549
+type(
+  'a
+)
+ident(
+  int_ref f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 60 1472 1482 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 60 1472 1483
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1530 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1550
+type(
+  'b * 'a
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1556 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1564
+type(
+  string -> 'b * 'a
+)
+ident(
+  int_ref Stdlib.failwith "stdlib.mli" 41 1919 1919 "stdlib.mli" 41 1919 1946
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1565 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1576
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1556 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1576
+type(
+  'b * 'a
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1494 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 61 1490 1576
+type(
+  'b * 'a
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1585 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1586
+type(
+  formula
+)
+ident(
+  def p "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 67 1600 1600 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1593 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1598
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1589 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1599
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 67 1600 1604 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 67 1600 1605
+type(
+  formula
+)
+ident(
+  def q "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 68 1619 1619 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 67 1600 1612 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 67 1600 1617
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 67 1600 1608 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 67 1600 1618
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 68 1619 1623 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 68 1619 1624
+type(
+  formula
+)
+ident(
+  def r "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 71 1651 1651 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 68 1619 1631 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 68 1619 1636
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 68 1619 1627 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 68 1619 1637
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 71 1651 1655 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 71 1651 1657
+type(
+  formula list * formula
+)
+ident(
+  def p1 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 73 1704 1704 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 71 1651 1660 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 71 1651 1665
+type(
+  formula -> formula list * formula -> formula list * formula
+)
+ident(
+  int_ref imp_i "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1141 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1146
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 71 1651 1666 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 71 1651 1667
+type(
+  formula
+)
+ident(
+  int_ref p "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1585 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1586
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 71 1651 1669 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 71 1651 1682
+type(
+  formula -> formula list * formula
+)
+ident(
+  int_ref by_assumption "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 47 1104 1108 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 47 1104 1121
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 71 1651 1683 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 71 1651 1684
+type(
+  formula
+)
+ident(
+  int_ref p "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1585 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1586
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 71 1651 1668 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 71 1651 1685
+type(
+  formula list * formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 71 1651 1660 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 71 1651 1685
+type(
+  formula list * formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 73 1704 1708 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 73 1704 1710
+type(
+  formula list * formula
+)
+ident(
+  def p2 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2031 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 73 1704 1713 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 73 1704 1718
+type(
+  formula -> formula list * formula -> formula list * formula
+)
+ident(
+  int_ref imp_i "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1141 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1146
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 73 1704 1719 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 73 1704 1720
+type(
+  formula
+)
+ident(
+  int_ref p "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1585 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1586
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 73 1704 1722 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 73 1704 1727
+type(
+  formula -> formula list * formula -> formula list * formula
+)
+ident(
+  int_ref imp_i "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1141 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1146
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 73 1704 1728 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 73 1704 1729
+type(
+  formula
+)
+ident(
+  int_ref q "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 67 1600 1604 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 67 1600 1605
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 73 1704 1731 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 73 1704 1744
+type(
+  formula -> formula list * formula
+)
+ident(
+  int_ref by_assumption "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 47 1104 1108 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 47 1104 1121
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 73 1704 1745 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 73 1704 1746
+type(
+  formula
+)
+ident(
+  int_ref p "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1585 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1586
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 73 1704 1730 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 73 1704 1747
+type(
+  formula list * formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 73 1704 1721 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 73 1704 1748
+type(
+  formula list * formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 73 1704 1713 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 73 1704 1748
+type(
+  formula list * formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2035 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2039
+type(
+  formula list * formula
+)
+ident(
+  def getQ "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2112 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2043 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2048
+type(
+  formula list * formula -> formula list * formula -> formula list * formula
+)
+ident(
+  int_ref imp_e "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 54 1241 1245 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 54 1241 1250
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2050 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2063
+type(
+  formula -> formula list * formula
+)
+ident(
+  int_ref by_assumption "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 47 1104 1108 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 47 1104 1121
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2074 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2075
+type(
+  formula
+)
+ident(
+  int_ref p "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1585 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1586
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2076 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2077
+type(
+  formula
+)
+ident(
+  int_ref r "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 68 1619 1623 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 68 1619 1624
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2069 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2079
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2080 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2081
+type(
+  formula
+)
+ident(
+  int_ref q "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 67 1600 1604 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 67 1600 1605
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2064 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2083
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2049 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2084
+type(
+  formula list * formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2086 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2099
+type(
+  formula -> formula list * formula
+)
+ident(
+  int_ref by_assumption "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 47 1104 1108 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 47 1104 1121
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2104 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2105
+type(
+  formula
+)
+ident(
+  int_ref p "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1585 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1586
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2106 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2107
+type(
+  formula
+)
+ident(
+  int_ref r "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 68 1619 1623 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 68 1619 1624
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2099 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2109
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2085 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2110
+type(
+  formula list * formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2042 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2111
+type(
+  formula list * formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2116 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2127
+type(
+  formula list * formula
+)
+ident(
+  def get_imp_q_r "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 90 2192 2192 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2131 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2136
+type(
+  formula list * formula -> formula list * formula -> formula list * formula
+)
+ident(
+  int_ref imp_e "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 54 1241 1245 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 54 1241 1250
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2138 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2151
+type(
+  formula -> formula list * formula
+)
+ident(
+  int_ref by_assumption "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 47 1104 1108 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 47 1104 1121
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2156 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2157
+type(
+  formula
+)
+ident(
+  int_ref p "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1585 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1586
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2164 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2165
+type(
+  formula
+)
+ident(
+  int_ref q "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 67 1600 1604 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 67 1600 1605
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2166 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2167
+type(
+  formula
+)
+ident(
+  int_ref r "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 68 1619 1623 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 68 1619 1624
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2159 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2169
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2151 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2171
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2137 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2172
+type(
+  formula list * formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2174 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2187
+type(
+  formula -> formula list * formula
+)
+ident(
+  int_ref by_assumption "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 47 1104 1108 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 47 1104 1121
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2188 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2189
+type(
+  formula
+)
+ident(
+  int_ref p "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1585 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1586
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2173 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2190
+type(
+  formula list * formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2130 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2191
+type(
+  formula list * formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 90 2192 2196 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 90 2192 2200
+type(
+  formula list * formula
+)
+ident(
+  def getR "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 92 2229 2229 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 90 2192 2204 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 90 2192 2209
+type(
+  formula list * formula -> formula list * formula -> formula list * formula
+)
+ident(
+  int_ref imp_e "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 54 1241 1245 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 54 1241 1250
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 90 2192 2210 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 90 2192 2221
+type(
+  formula list * formula
+)
+ident(
+  int_ref get_imp_q_r "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2116 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 89 2112 2127
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 90 2192 2222 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 90 2192 2226
+type(
+  formula list * formula
+)
+ident(
+  int_ref getQ "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2035 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 88 2031 2039
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 90 2192 2203 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 90 2192 2227
+type(
+  formula list * formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 92 2229 2233 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 92 2229 2235
+type(
+  formula
+)
+ident(
+  def l3 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2466 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 92 2229 2242 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 92 2229 2243
+type(
+  formula
+)
+ident(
+  int_ref p "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1585 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1586
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 92 2229 2250 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 92 2229 2251
+type(
+  formula
+)
+ident(
+  int_ref q "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 67 1600 1604 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 67 1600 1605
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 92 2229 2253 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 92 2229 2254
+type(
+  formula
+)
+ident(
+  int_ref r "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 68 1619 1623 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 68 1619 1624
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 92 2229 2245 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 92 2229 2256
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 92 2229 2238 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 92 2229 2257
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2470 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2472
+type(
+  formula list * formula
+)
+ident(
+  def p3 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 99 2533 2533 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2475 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2480
+type(
+  formula -> formula list * formula -> formula list * formula
+)
+ident(
+  int_ref imp_i "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1141 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1146
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2481 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2483
+type(
+  formula
+)
+ident(
+  int_ref l3 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 92 2229 2233 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 92 2229 2235
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2485 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2490
+type(
+  formula -> formula list * formula -> formula list * formula
+)
+ident(
+  int_ref imp_i "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1141 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1146
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2496 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2497
+type(
+  formula
+)
+ident(
+  int_ref p "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1585 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1586
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2498 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2499
+type(
+  formula
+)
+ident(
+  int_ref q "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 67 1600 1604 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 67 1600 1605
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2491 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2501
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2503 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2508
+type(
+  formula -> formula list * formula -> formula list * formula
+)
+ident(
+  int_ref imp_i "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1141 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1146
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2509 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2510
+type(
+  formula
+)
+ident(
+  int_ref p "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1585 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1586
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2511 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2515
+type(
+  formula list * formula
+)
+ident(
+  int_ref getR "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 90 2192 2196 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 90 2192 2200
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2502 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2516
+type(
+  formula list * formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2484 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2517
+type(
+  formula list * formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2475 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 96 2466 2517
+type(
+  formula list * formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 99 2533 2537 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 99 2533 2539
+type(
+  formula list * formula
+)
+ident(
+  def p4 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 99 2533 2589 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 99 2533 2542 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 99 2533 2547
+type(
+  formula -> formula list * formula -> formula list * formula
+)
+ident(
+  int_ref imp_i "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1141 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 50 1137 1146
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 99 2533 2548 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 99 2533 2555
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 99 2533 2557 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 99 2533 2562
+type(
+  formula -> formula list * formula -> formula list * formula
+)
+ident(
+  int_ref bot_e "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 60 1472 1476 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 60 1472 1481
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 99 2533 2563 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 99 2533 2564
+type(
+  formula
+)
+ident(
+  int_ref p "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1585 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 66 1581 1586
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 99 2533 2566 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 99 2533 2579
+type(
+  formula -> formula list * formula
+)
+ident(
+  int_ref by_assumption "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 47 1104 1108 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 47 1104 1121
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 99 2533 2580 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 99 2533 2587
+type(
+  formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 99 2533 2565 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 99 2533 2588
+type(
+  formula list * formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 99 2533 2556 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 99 2533 2589
+type(
+  formula list * formula
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 99 2533 2542 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/4/out/production/4/tmp/src/logic.ml" 99 2533 2589
+type(
+  formula list * formula
+)

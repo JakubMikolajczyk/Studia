@@ -1,0 +1,524 @@
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 11 271 275 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 11 271 279
+type(
+  'a ->
+  (unit -> 'b -> ('c, 'a) out_channel -> 'c) ->
+  'b -> ('c, 'a) out_channel -> 'c
+)
+ident(
+  def send "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 14 351 351 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 11 271 280 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 11 271 281
+type(
+  'a
+)
+ident(
+  def o "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 11 271 282 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 349
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 11 271 282 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 11 271 283
+type(
+  unit -> 'b -> ('c, 'a) out_channel -> 'c
+)
+ident(
+  def k "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 11 271 284 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 349
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 11 271 284 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 11 271 289
+type(
+  'b
+)
+ident(
+  def in_ch "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 11 271 290 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 349
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 11 271 295 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 11 271 299
+type(
+  'a -> ('c, 'a) in_channel -> 'c
+)
+ident(
+  def send "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 305 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 349
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 11 271 290 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 11 271 300
+type(
+  ('c, 'a) out_channel
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 305 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 309
+type(
+  'a -> ('c, 'a) in_channel -> 'c
+)
+ident(
+  int_ref send "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 11 271 295 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 11 271 299
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 310 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 311
+type(
+  'a
+)
+ident(
+  int_ref o "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 11 271 280 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 11 271 281
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 320 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 326
+type(
+  ('c, 'a) out_channel
+)
+ident(
+  def out_ch "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 330 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 347
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 330 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 331
+type(
+  unit -> 'b -> ('c, 'a) out_channel -> 'c
+)
+ident(
+  int_ref k "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 11 271 282 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 11 271 283
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 332 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 334
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 335 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 340
+type(
+  'b
+)
+ident(
+  int_ref in_ch "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 11 271 284 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 11 271 289
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 341 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 347
+type(
+  ('c, 'a) out_channel
+)
+ident(
+  int_ref out_ch "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 320 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 326
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 330 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 347
+type(
+  'c
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 315 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 348
+type(
+  ('c, 'a) out_channel -> 'c
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 312 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 349
+type(
+  ('c, 'a) in_channel
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 305 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 12 303 349
+type(
+  'c
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 14 351 355 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 14 351 359
+type(
+  ('a -> ('b, 'a) in_channel -> 'c -> 'b) -> ('b, 'a) in_channel -> 'c -> 'b
+)
+ident(
+  def recv "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 17 428 428 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 14 351 360 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 14 351 361
+type(
+  'a -> ('b, 'a) in_channel -> 'c -> 'b
+)
+ident(
+  def k "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 14 351 362 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 426
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 14 351 366 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 14 351 370
+type(
+  ('b, 'a) out_channel -> 'b
+)
+ident(
+  def recv "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 14 351 372 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 426
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 14 351 362 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 14 351 371
+type(
+  ('b, 'a) in_channel
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 14 351 372 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 14 351 378
+type(
+  'c
+)
+ident(
+  def out_ch "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 383 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 426
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 383 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 387
+type(
+  ('b, 'a) out_channel -> 'b
+)
+ident(
+  int_ref recv "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 14 351 366 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 14 351 370
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 397 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 398
+type(
+  'a
+)
+ident(
+  def v "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 399 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 424
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 399 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 404
+type(
+  ('b, 'a) in_channel
+)
+ident(
+  def in_ch "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 408 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 424
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 408 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 409
+type(
+  'a -> ('b, 'a) in_channel -> 'c -> 'b
+)
+ident(
+  int_ref k "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 14 351 360 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 14 351 361
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 410 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 411
+type(
+  'a
+)
+ident(
+  int_ref v "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 397 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 398
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 412 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 417
+type(
+  ('b, 'a) in_channel
+)
+ident(
+  int_ref in_ch "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 399 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 404
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 418 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 424
+type(
+  'c
+)
+ident(
+  int_ref out_ch "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 14 351 372 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 14 351 378
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 408 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 424
+type(
+  'b
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 392 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 425
+type(
+  'a -> ('b, 'a) in_channel -> 'b
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 388 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 426
+type(
+  ('b, 'a) out_channel
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 383 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 15 381 426
+type(
+  'b
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 17 428 432 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 17 428 438
+type(
+  'a -> 'b -> 'c -> 'a
+)
+ident(
+  def exit_k "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 19 450 450 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 17 428 439 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 17 428 440
+type(
+  'a
+)
+ident(
+  def x "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 17 428 441 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 17 428 448
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 17 428 441 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 17 428 442
+type(
+  'b
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 17 428 443 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 17 428 444
+type(
+  'c
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 17 428 447 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 17 428 448
+type(
+  'a
+)
+ident(
+  int_ref x "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 17 428 439 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 17 428 440
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 19 450 454 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 19 450 459
+type(
+  (('a -> 'b -> 'c -> 'a) -> 'd -> ('e, 'f) out_channel -> 'e) ->
+  (('g -> 'h -> 'i -> 'g) -> ('e, 'f) in_channel -> 'j -> 'k) ->
+  'l -> 'd -> 'j -> 'k
+)
+ident(
+  def >|> "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 24 550 550 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 19 450 460 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 19 450 462
+type(
+  ('a -> 'b -> 'c -> 'a) -> 'd -> ('e, 'f) out_channel -> 'e
+)
+ident(
+  def p1 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 19 450 463 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 22 538 548
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 19 450 463 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 19 450 465
+type(
+  ('g -> 'h -> 'i -> 'g) -> ('e, 'f) in_channel -> 'j -> 'k
+)
+ident(
+  def p2 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 19 450 466 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 22 538 548
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 19 450 466 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 19 450 467
+type(
+  'l
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 19 450 468 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 19 450 473
+type(
+  'd
+)
+ident(
+  def in_ch "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 19 450 474 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 22 538 548
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 19 450 474 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 19 450 480
+type(
+  'j
+)
+ident(
+  def out_ch "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 20 483 485 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 22 538 548
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 20 483 485 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 20 483 487
+type(
+  ('g -> 'h -> 'i -> 'g) -> ('e, 'f) in_channel -> 'j -> 'k
+)
+ident(
+  int_ref p2 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 19 450 463 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 19 450 465
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 20 483 488 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 20 483 494
+type(
+  'g -> 'h -> 'i -> 'g
+)
+ident(
+  int_ref exit_k "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 17 428 432 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 17 428 438
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 21 495 507 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 21 495 511
+type(
+  ('e, 'f) out_channel
+)
+ident(
+  def m_ch "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 21 495 515 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 21 495 535
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 21 495 515 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 21 495 517
+type(
+  ('a -> 'b -> 'c -> 'a) -> 'd -> ('e, 'f) out_channel -> 'e
+)
+ident(
+  int_ref p1 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 19 450 460 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 19 450 462
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 21 495 518 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 21 495 524
+type(
+  'a -> 'b -> 'c -> 'a
+)
+ident(
+  int_ref exit_k "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 17 428 432 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 17 428 438
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 21 495 525 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 21 495 530
+type(
+  'd
+)
+ident(
+  int_ref in_ch "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 19 450 468 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 19 450 473
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 21 495 531 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 21 495 535
+type(
+  ('e, 'f) out_channel
+)
+ident(
+  int_ref m_ch "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 21 495 507 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 21 495 511
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 21 495 515 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 21 495 535
+type(
+  'e
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 21 495 502 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 21 495 536
+type(
+  ('e, 'f) out_channel -> 'e
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 21 495 499 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 21 495 537
+type(
+  ('e, 'f) in_channel
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 22 538 542 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 22 538 548
+type(
+  'j
+)
+ident(
+  int_ref out_ch "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 19 450 474 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 19 450 480
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 20 483 485 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 22 538 548
+type(
+  'k
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 24 550 558 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 24 550 566
+type(
+  ('a, string) in_channel
+)
+ident(
+  def stdin_ch "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 24 550 550 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 25 569 584 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 25 569 588
+type(
+  string -> ('a, string) in_channel -> 'a
+)
+ident(
+  def send "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 25 569 593 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 25 569 621
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 25 569 579 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 25 569 589
+type(
+  ('a, string) out_channel
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 25 569 593 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 25 569 597
+type(
+  string -> ('a, string) in_channel -> 'a
+)
+ident(
+  int_ref send "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 25 569 584 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 25 569 588
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 25 569 599 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 25 569 608
+type(
+  unit -> string
+)
+ident(
+  int_ref Stdlib.read_line "stdlib.mli" 905 32724 32724 "stdlib.mli" 905 32724 32754
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 25 569 609 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 25 569 611
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 25 569 598 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 25 569 612
+type(
+  string
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 25 569 613 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 25 569 621
+type(
+  ('a, string) in_channel
+)
+ident(
+  int_ref stdin_ch "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 24 550 558 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 24 550 566
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 25 569 593 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 25 569 621
+type(
+  'a
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 25 569 574 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 25 569 622
+type(
+  ('a, string) out_channel -> 'a
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 25 569 571 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 25 569 622
+type(
+  ('a, string) in_channel
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 27 624 632 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 27 624 641
+type(
+  ('a, string) out_channel
+)
+ident(
+  def stdout_ch "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 27 624 624 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 655 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 658
+type(
+  string
+)
+ident(
+  def str "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 659 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 705
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 663 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 667
+type(
+  ('a, string) out_channel -> 'a
+)
+ident(
+  def recv "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 672 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 705
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 659 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 668
+type(
+  ('a, string) in_channel
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 672 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 685
+type(
+  string -> unit
+)
+ident(
+  int_ref Stdlib.print_endline "stdlib.mli" 866 31615 31615 "stdlib.mli" 866 31615 31649
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 686 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 689
+type(
+  string
+)
+ident(
+  int_ref str "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 655 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 658
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 672 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 689
+type(
+  unit
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 691 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 695
+type(
+  ('a, string) out_channel -> 'a
+)
+ident(
+  int_ref recv "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 663 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 667
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 696 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 705
+type(
+  ('a, string) out_channel
+)
+ident(
+  int_ref stdout_ch "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 27 624 632 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 27 624 641
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 691 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 705
+type(
+  'a
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 672 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 705
+type(
+  'a
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 650 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 706
+type(
+  string -> ('a, string) in_channel -> 'a
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 646 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 28 644 706
+type(
+  ('a, string) out_channel
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 30 708 712 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 30 708 715
+type(
+  (('a -> 'b -> 'c -> 'a) ->
+   ('d, string) in_channel -> ('e, string) out_channel -> 'f) ->
+  'f
+)
+ident(
+  def run "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 30 708 747 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 30 708 716 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 30 708 717
+type(
+  ('a -> 'b -> 'c -> 'a) ->
+  ('d, string) in_channel -> ('e, string) out_channel -> 'f
+)
+ident(
+  def p "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 30 708 720 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 30 708 747
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 30 708 720 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 30 708 721
+type(
+  ('a -> 'b -> 'c -> 'a) ->
+  ('d, string) in_channel -> ('e, string) out_channel -> 'f
+)
+ident(
+  int_ref p "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 30 708 716 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 30 708 717
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 30 708 722 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 30 708 728
+type(
+  'a -> 'b -> 'c -> 'a
+)
+ident(
+  int_ref exit_k "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 17 428 432 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 17 428 438
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 30 708 729 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 30 708 737
+type(
+  ('d, string) in_channel
+)
+ident(
+  int_ref stdin_ch "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 24 550 558 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 24 550 566
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 30 708 738 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 30 708 747
+type(
+  ('e, string) out_channel
+)
+ident(
+  int_ref stdout_ch "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 27 624 632 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 27 624 641
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 30 708 720 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/proc.ml" 30 708 747
+type(
+  'f
+)

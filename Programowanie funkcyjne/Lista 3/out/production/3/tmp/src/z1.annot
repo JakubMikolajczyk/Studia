@@ -1,0 +1,28 @@
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/3/out/production/3/tmp/src/z1.ml" 1 0 4 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/3/out/production/3/tmp/src/z1.ml" 1 0 7
+type(
+  'a -> 'b -> 'b
+)
+ident(
+  def abc "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/3/out/production/3/tmp/src/z1.ml" 1 0 17 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/3/out/production/3/tmp/src/z1.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/3/out/production/3/tmp/src/z1.ml" 1 0 8 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/3/out/production/3/tmp/src/z1.ml" 1 0 11
+type(
+  'a
+)
+ident(
+  def key "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/3/out/production/3/tmp/src/z1.ml" 1 0 12 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/3/out/production/3/tmp/src/z1.ml" 1 0 17
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/3/out/production/3/tmp/src/z1.ml" 1 0 12 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/3/out/production/3/tmp/src/z1.ml" 1 0 13
+type(
+  'b
+)
+ident(
+  def t "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/3/out/production/3/tmp/src/z1.ml" 1 0 16 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/3/out/production/3/tmp/src/z1.ml" 1 0 17
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/3/out/production/3/tmp/src/z1.ml" 1 0 16 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/3/out/production/3/tmp/src/z1.ml" 1 0 17
+type(
+  'b
+)
+ident(
+  int_ref t "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/3/out/production/3/tmp/src/z1.ml" 1 0 12 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/3/out/production/3/tmp/src/z1.ml" 1 0 13
+)

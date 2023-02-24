@@ -1,0 +1,4 @@
+(tests
+ (names logicTest treeTest nextTest)
+ (libraries Asystent))
+

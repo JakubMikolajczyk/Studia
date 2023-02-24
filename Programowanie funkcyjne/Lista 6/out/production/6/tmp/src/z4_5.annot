@@ -1,0 +1,874 @@
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 8 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 21
+type(
+  ('a -> 'b -> ('a -> 'c) -> 'c) -> 'a -> 'b list -> ('a -> 'c) -> 'c
+)
+ident(
+  def fold_left_cps "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 0 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 22 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 23
+type(
+  'a -> 'b -> ('a -> 'c) -> 'c
+)
+ident(
+  def f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 24 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 149
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 24 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 27
+type(
+  'a
+)
+ident(
+  def acc "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 28 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 149
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 28 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 31
+type(
+  'b list
+)
+ident(
+  def lst "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 32 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 149
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 32 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 35
+type(
+  'a -> 'c
+)
+ident(
+  def con "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 2 38 46 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 149
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 2 38 52 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 2 38 55
+type(
+  'b list
+)
+ident(
+  int_ref lst "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 28 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 31
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 3 61 71 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 3 61 73
+type(
+  'b list
+)
+type(
+  'b list
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 3 61 77 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 3 61 80
+type(
+  'a -> 'c
+)
+ident(
+  int_ref con "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 32 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 35
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 3 61 81 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 3 61 84
+type(
+  'a
+)
+ident(
+  int_ref acc "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 24 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 27
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 3 61 77 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 3 61 84
+type(
+  'c
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 95 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 96
+type(
+  'b
+)
+ident(
+  def x "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 106 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 149
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 100 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 102
+type(
+  'b list
+)
+ident(
+  def xs "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 106 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 149
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 95 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 102
+type(
+  'b list
+)
+type(
+  'b list
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 106 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 107
+type(
+  'a -> 'b -> ('a -> 'c) -> 'c
+)
+ident(
+  int_ref f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 22 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 23
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 108 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 111
+type(
+  'a
+)
+ident(
+  int_ref acc "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 24 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 27
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 112 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 113
+type(
+  'b
+)
+ident(
+  int_ref x "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 95 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 96
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 119 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 120
+type(
+  'a
+)
+ident(
+  def a "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 124 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 148
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 124 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 137
+type(
+  ('a -> 'b -> ('a -> 'c) -> 'c) -> 'a -> 'b list -> ('a -> 'c) -> 'c
+)
+ident(
+  int_ref fold_left_cps "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 8 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 21
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 138 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 139
+type(
+  'a -> 'b -> ('a -> 'c) -> 'c
+)
+ident(
+  int_ref f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 22 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 23
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 140 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 141
+type(
+  'a
+)
+ident(
+  int_ref a "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 119 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 120
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 142 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 144
+type(
+  'b list
+)
+ident(
+  int_ref xs "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 100 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 102
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 145 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 148
+type(
+  'a -> 'c
+)
+ident(
+  int_ref con "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 32 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 35
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 124 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 148
+type(
+  'c
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 114 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 149
+type(
+  'a -> 'c
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 106 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 149
+type(
+  'c
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 2 38 46 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 4 85 149
+type(
+  'c
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 6 151 155 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 6 151 171
+type(
+  ('a -> 'b -> ('a -> 'a) -> 'a) -> 'a -> 'b list -> 'a
+)
+ident(
+  def fold_left_cps_id "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 9 226 226 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 6 151 172 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 6 151 173
+type(
+  'a -> 'b -> ('a -> 'a) -> 'a
+)
+ident(
+  def f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 6 151 174 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 7 184 224
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 6 151 174 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 6 151 177
+type(
+  'a
+)
+ident(
+  def acc "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 6 151 178 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 7 184 224
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 6 151 178 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 6 151 181
+type(
+  'b list
+)
+ident(
+  def lst "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 7 184 188 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 7 184 224
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 7 184 188 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 7 184 201
+type(
+  ('a -> 'b -> ('a -> 'a) -> 'a) -> 'a -> 'b list -> ('a -> 'a) -> 'a
+)
+ident(
+  int_ref fold_left_cps "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 8 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 21
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 7 184 202 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 7 184 203
+type(
+  'a -> 'b -> ('a -> 'a) -> 'a
+)
+ident(
+  int_ref f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 6 151 172 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 6 151 173
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 7 184 204 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 7 184 207
+type(
+  'a
+)
+ident(
+  int_ref acc "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 6 151 174 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 6 151 177
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 7 184 208 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 7 184 211
+type(
+  'b list
+)
+ident(
+  int_ref lst "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 6 151 178 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 6 151 181
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 7 184 217 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 7 184 218
+type(
+  'a
+)
+ident(
+  def x "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 7 184 222 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 7 184 223
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 7 184 222 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 7 184 223
+type(
+  'a
+)
+ident(
+  int_ref x "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 7 184 217 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 7 184 218
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 7 184 212 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 7 184 224
+type(
+  'a -> 'a
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 7 184 188 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 7 184 224
+type(
+  'a
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 9 226 230 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 9 226 239
+type(
+  ('a -> 'b -> 'a) -> 'a -> 'b list -> 'a
+)
+ident(
+  def fold_left "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 12 325 325 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 9 226 240 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 9 226 241
+type(
+  'a -> 'b -> 'a
+)
+ident(
+  def f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 9 226 242 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 323
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 9 226 242 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 9 226 245
+type(
+  'a
+)
+ident(
+  def acc "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 9 226 246 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 323
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 9 226 246 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 9 226 249
+type(
+  'b list
+)
+ident(
+  def lst "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 256 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 323
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 256 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 269
+type(
+  ('a -> 'b -> ('a -> 'a) -> 'a) -> 'a -> 'b list -> ('a -> 'a) -> 'a
+)
+ident(
+  int_ref fold_left_cps "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 8 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 21
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 275 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 278
+type(
+  'a
+)
+ident(
+  def acc "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 279 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 301
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 279 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 280
+type(
+  'b
+)
+ident(
+  def x "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 281 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 301
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 281 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 284
+type(
+  'a -> 'a
+)
+ident(
+  def con "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 288 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 301
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 288 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 291
+type(
+  'a -> 'a
+)
+ident(
+  int_ref con "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 281 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 284
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 293 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 294
+type(
+  'a -> 'b -> 'a
+)
+ident(
+  int_ref f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 9 226 240 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 9 226 241
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 295 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 298
+type(
+  'a
+)
+ident(
+  int_ref acc "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 275 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 278
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 299 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 300
+type(
+  'b
+)
+ident(
+  int_ref x "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 279 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 280
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 292 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 301
+type(
+  'a
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 288 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 301
+type(
+  'a
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 270 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 302
+type(
+  'a -> 'b -> ('a -> 'a) -> 'a
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 303 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 306
+type(
+  'a
+)
+ident(
+  int_ref acc "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 9 226 242 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 9 226 245
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 307 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 310
+type(
+  'b list
+)
+ident(
+  int_ref lst "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 9 226 246 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 9 226 249
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 316 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 317
+type(
+  'a
+)
+ident(
+  def x "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 321 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 322
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 321 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 322
+type(
+  'a
+)
+ident(
+  int_ref x "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 316 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 317
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 311 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 323
+type(
+  'a -> 'a
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 256 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 10 252 323
+type(
+  'a
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 12 325 329 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 12 325 332
+type(
+  int -> int -> (int -> 'a) -> 'a
+)
+ident(
+  def sum "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 15 364 364 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 12 325 333 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 12 325 336
+type(
+  int
+)
+ident(
+  def acc "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 12 325 337 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 13 345 362
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 12 325 337 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 12 325 338
+type(
+  int
+)
+ident(
+  def x "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 12 325 339 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 13 345 362
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 12 325 339 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 12 325 342
+type(
+  int -> 'a
+)
+ident(
+  def con "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 13 345 349 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 13 345 362
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 13 345 349 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 13 345 352
+type(
+  int -> 'a
+)
+ident(
+  int_ref con "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 12 325 339 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 12 325 342
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 13 345 354 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 13 345 357
+type(
+  int
+)
+ident(
+  int_ref acc "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 12 325 333 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 12 325 336
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 13 345 358 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 13 345 359
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 347 13626 13626 "stdlib.mli" 347 13626 13672
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 13 345 360 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 13 345 361
+type(
+  int
+)
+ident(
+  int_ref x "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 12 325 337 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 12 325 338
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 13 345 353 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 13 345 362
+type(
+  int
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 13 345 349 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 13 345 362
+type(
+  'a
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 15 364 368 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 15 364 378
+type(
+  ('a -> bool) -> 'a list -> bool
+)
+ident(
+  def all_values "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 20 510 510 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 15 364 379 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 15 364 380
+type(
+  'a -> bool
+)
+ident(
+  def f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 15 364 381 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 18 464 508
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 15 364 381 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 15 364 384
+type(
+  'a list
+)
+ident(
+  def lst "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 16 387 391 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 18 464 508
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 16 387 395 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 16 387 406
+type(
+  'b -> 'a -> ('b -> bool) -> bool
+)
+ident(
+  def all_values' "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 18 464 471 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 18 464 508
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 16 387 407 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 16 387 410
+type(
+  'b
+)
+ident(
+  def acc "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 16 387 411 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 17 419 463
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 16 387 411 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 16 387 412
+type(
+  'a
+)
+ident(
+  def x "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 16 387 413 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 17 419 463
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 16 387 413 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 16 387 416
+type(
+  'b -> bool
+)
+ident(
+  def con "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 17 419 427 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 17 419 463
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 17 419 430 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 17 419 433
+type(
+  bool -> bool
+)
+ident(
+  int_ref Stdlib.not "stdlib.mli" 211 8889 8889 "stdlib.mli" 211 8889 8929
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 17 419 435 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 17 419 436
+type(
+  'a -> bool
+)
+ident(
+  int_ref f "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 15 364 379 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 15 364 380
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 17 419 437 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 17 419 438
+type(
+  'a
+)
+ident(
+  int_ref x "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 16 387 411 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 16 387 412
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 17 419 434 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 17 419 439
+type(
+  bool
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 17 419 430 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 17 419 439
+type(
+  bool
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 17 419 445 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 17 419 450
+type(
+  bool
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 17 419 456 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 17 419 459
+type(
+  'b -> bool
+)
+ident(
+  int_ref con "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 16 387 413 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 16 387 416
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 17 419 460 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 17 419 463
+type(
+  'b
+)
+ident(
+  int_ref acc "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 16 387 407 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 16 387 410
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 17 419 456 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 17 419 463
+type(
+  bool
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 17 419 427 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 17 419 463
+type(
+  bool
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 18 464 471 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 18 464 487
+type(
+  (bool -> 'a -> (bool -> bool) -> bool) -> bool -> 'a list -> bool
+)
+ident(
+  int_ref fold_left_cps_id "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 6 151 155 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 6 151 171
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 18 464 488 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 18 464 499
+type(
+  bool -> 'a -> (bool -> bool) -> bool
+)
+ident(
+  int_ref all_values' "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 16 387 395 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 16 387 406
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 18 464 500 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 18 464 504
+type(
+  bool
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 18 464 505 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 18 464 508
+type(
+  'a list
+)
+ident(
+  int_ref lst "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 15 364 381 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 15 364 384
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 18 464 471 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 18 464 508
+type(
+  bool
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 16 387 391 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 18 464 508
+type(
+  bool
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 20 510 514 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 20 510 523
+type(
+  int list -> int
+)
+ident(
+  def mult_list "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 25 646 646 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 20 510 524 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 20 510 527
+type(
+  int list
+)
+ident(
+  def lst "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 21 530 534 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 23 604 644
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 21 530 538 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 21 530 548
+type(
+  int -> int -> (int -> int) -> int
+)
+ident(
+  def mult_list' "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 23 604 611 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 23 604 644
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 21 530 549 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 21 530 552
+type(
+  int
+)
+ident(
+  def acc "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 21 530 553 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 603
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 21 530 553 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 21 530 554
+type(
+  int
+)
+ident(
+  def x "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 21 530 555 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 603
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 21 530 555 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 21 530 558
+type(
+  int -> int
+)
+ident(
+  def con "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 569 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 603
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 572 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 573
+type(
+  int
+)
+ident(
+  int_ref x "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 21 530 553 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 21 530 554
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 574 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 575
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref Stdlib.( = ) "stdlib.mli" 121 5051 5051 "stdlib.mli" 121 5051 5095
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 576 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 577
+type(
+  int
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 572 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 577
+type(
+  bool
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 583 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 584
+type(
+  int
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 590 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 593
+type(
+  int -> int
+)
+ident(
+  int_ref con "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 21 530 555 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 21 530 558
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 595 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 598
+type(
+  int
+)
+ident(
+  int_ref acc "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 21 530 549 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 21 530 552
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 599 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 600
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( * ) "stdlib.mli" 357 13929 13929 "stdlib.mli" 357 13929 13975
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 601 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 602
+type(
+  int
+)
+ident(
+  int_ref x "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 21 530 553 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 21 530 554
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 594 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 603
+type(
+  int
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 590 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 603
+type(
+  int
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 569 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 22 561 603
+type(
+  int
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 23 604 611 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 23 604 627
+type(
+  (int -> int -> (int -> int) -> int) -> int -> int list -> int
+)
+ident(
+  int_ref fold_left_cps_id "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 6 151 155 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 6 151 171
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 23 604 628 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 23 604 638
+type(
+  int -> int -> (int -> int) -> int
+)
+ident(
+  int_ref mult_list' "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 21 530 538 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 21 530 548
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 23 604 639 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 23 604 640
+type(
+  int
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 23 604 641 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 23 604 644
+type(
+  int list
+)
+ident(
+  int_ref lst "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 20 510 524 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 20 510 527
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 23 604 611 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 23 604 644
+type(
+  int
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 21 530 534 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 23 604 644
+type(
+  int
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 25 646 650 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 25 646 656
+type(
+  'a list -> bool
+)
+ident(
+  def sorted "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 796 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 0 0 -1
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 25 646 657 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 25 646 660
+type(
+  'a list
+)
+ident(
+  def lst "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 26 663 667 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 796
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 26 663 671 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 26 663 678
+type(
+  'b -> 'b -> ('b -> bool) -> bool
+)
+ident(
+  def sorted' "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 741 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 796
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 26 663 679 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 26 663 682
+type(
+  'b
+)
+ident(
+  def acc "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 26 663 683 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 27 691 733
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 26 663 683 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 26 663 684
+type(
+  'b
+)
+ident(
+  def x "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 26 663 685 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 27 691 733
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 26 663 685 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 26 663 688
+type(
+  'b -> bool
+)
+ident(
+  def con "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 27 691 699 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 27 691 733
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 27 691 703 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 27 691 704
+type(
+  'b
+)
+ident(
+  int_ref x "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 26 663 683 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 26 663 684
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 27 691 705 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 27 691 706
+type(
+  'b -> 'b -> bool
+)
+ident(
+  int_ref Stdlib.( < ) "stdlib.mli" 135 5721 5721 "stdlib.mli" 135 5721 5768
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 27 691 707 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 27 691 710
+type(
+  'b
+)
+ident(
+  int_ref acc "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 26 663 679 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 26 663 682
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 27 691 702 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 27 691 711
+type(
+  bool
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 27 691 717 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 27 691 722
+type(
+  bool
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 27 691 728 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 27 691 731
+type(
+  'b -> bool
+)
+ident(
+  int_ref con "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 26 663 685 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 26 663 688
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 27 691 732 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 27 691 733
+type(
+  'b
+)
+ident(
+  int_ref x "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 26 663 683 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 26 663 684
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 27 691 728 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 27 691 733
+type(
+  bool
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 27 691 699 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 27 691 733
+type(
+  bool
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 741 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 754
+type(
+  ('a -> 'a -> ('a -> bool) -> bool) -> 'a -> 'a list -> ('a -> bool) -> bool
+)
+ident(
+  int_ref fold_left_cps "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 8 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 1 0 21
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 755 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 762
+type(
+  'a -> 'a -> ('a -> bool) -> bool
+)
+ident(
+  int_ref sorted' "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 26 663 671 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 26 663 678
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 764 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 771
+type(
+  'a list -> 'a
+)
+ident(
+  int_ref Stdlib.List.hd "list.mli" 65 2780 2780 "list.mli" 65 2780 2802
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 772 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 775
+type(
+  'a list
+)
+ident(
+  int_ref lst "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 25 646 657 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 25 646 660
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 763 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 776
+type(
+  'a
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 777 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 780
+type(
+  'a list
+)
+ident(
+  int_ref lst "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 25 646 657 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 25 646 660
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 786 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 787
+type(
+  'a
+)
+ident(
+  def a "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 791 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 795
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 791 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 795
+type(
+  bool
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 781 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 796
+type(
+  'a -> bool
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 741 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 796
+type(
+  bool
+)
+"/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 26 663 667 "/Users/jakubmikolajczyk/IdeaProjects/Funkcyjne/6/out/production/6/tmp/src/z4_5.ml" 28 734 796
+type(
+  bool
+)
