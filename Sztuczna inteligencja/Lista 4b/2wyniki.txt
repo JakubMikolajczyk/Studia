@@ -1,0 +1,399 @@
+PlayerId: 3
+Statistic:160-19-19
+Alpha0.03
+
+PlayerId: 1
+Statistic:157-23-18
+Alpha0.01
+
+PlayerId: 2
+Statistic:157-23-18
+Alpha0.02
+
+PlayerId: 4
+Statistic:136-40-22
+Alpha0.04
+
+PlayerId: 10
+Statistic:123-4-71
+Alpha0.1
+
+PlayerId: 11
+Statistic:123-2-73
+Alpha0.11
+
+PlayerId: 9
+Statistic:122-5-71
+Alpha0.09
+
+PlayerId: 0
+Statistic:117-81-0
+Alpha0.0
+
+PlayerId: 8
+Statistic:115-3-80
+Alpha0.08
+
+PlayerId: 6
+Statistic:94-39-65
+Alpha0.06
+
+PlayerId: 7
+Statistic:94-32-72
+Alpha0.07
+
+PlayerId: 5
+Statistic:93-40-65
+Alpha0.05
+
+PlayerId: 15
+Statistic:84-92-22
+Alpha0.15
+
+PlayerId: 16
+Statistic:84-92-22
+Alpha0.16
+
+PlayerId: 51
+Statistic:84-30-84
+Alpha0.51
+
+PlayerId: 52
+Statistic:84-30-84
+Alpha0.52
+
+PlayerId: 53
+Statistic:84-30-84
+Alpha0.53
+
+PlayerId: 54
+Statistic:84-30-84
+Alpha0.54
+
+PlayerId: 55
+Statistic:84-30-84
+Alpha0.55
+
+PlayerId: 56
+Statistic:84-30-84
+Alpha0.56
+
+PlayerId: 57
+Statistic:84-30-84
+Alpha0.5700000000000001
+
+PlayerId: 58
+Statistic:84-30-84
+Alpha0.58
+
+PlayerId: 59
+Statistic:84-30-84
+Alpha0.59
+
+PlayerId: 60
+Statistic:84-30-84
+Alpha0.6
+
+PlayerId: 61
+Statistic:84-30-84
+Alpha0.61
+
+PlayerId: 62
+Statistic:84-30-84
+Alpha0.62
+
+PlayerId: 63
+Statistic:84-30-84
+Alpha0.63
+
+PlayerId: 64
+Statistic:84-30-84
+Alpha0.64
+
+PlayerId: 65
+Statistic:84-30-84
+Alpha0.65
+
+PlayerId: 66
+Statistic:84-30-84
+Alpha0.66
+
+PlayerId: 67
+Statistic:84-30-84
+Alpha0.67
+
+PlayerId: 68
+Statistic:84-30-84
+Alpha0.68
+
+PlayerId: 69
+Statistic:84-30-84
+Alpha0.6900000000000001
+
+PlayerId: 70
+Statistic:84-30-84
+Alpha0.7000000000000001
+
+PlayerId: 71
+Statistic:84-30-84
+Alpha0.71
+
+PlayerId: 72
+Statistic:84-30-84
+Alpha0.72
+
+PlayerId: 73
+Statistic:84-30-84
+Alpha0.73
+
+PlayerId: 74
+Statistic:84-30-84
+Alpha0.74
+
+PlayerId: 75
+Statistic:84-29-85
+Alpha0.75
+
+PlayerId: 50
+Statistic:81-33-84
+Alpha0.5
+
+PlayerId: 33
+Statistic:81-32-85
+Alpha0.33
+
+PlayerId: 34
+Statistic:81-30-87
+Alpha0.34
+
+PlayerId: 35
+Statistic:81-30-87
+Alpha0.35000000000000003
+
+PlayerId: 36
+Statistic:81-30-87
+Alpha0.36
+
+PlayerId: 37
+Statistic:81-30-87
+Alpha0.37
+
+PlayerId: 38
+Statistic:81-30-87
+Alpha0.38
+
+PlayerId: 39
+Statistic:81-30-87
+Alpha0.39
+
+PlayerId: 40
+Statistic:81-30-87
+Alpha0.4
+
+PlayerId: 41
+Statistic:81-30-87
+Alpha0.41000000000000003
+
+PlayerId: 42
+Statistic:81-30-87
+Alpha0.42
+
+PlayerId: 43
+Statistic:81-30-87
+Alpha0.43
+
+PlayerId: 44
+Statistic:81-30-87
+Alpha0.44
+
+PlayerId: 45
+Statistic:81-30-87
+Alpha0.45
+
+PlayerId: 46
+Statistic:81-30-87
+Alpha0.46
+
+PlayerId: 47
+Statistic:81-30-87
+Alpha0.47000000000000003
+
+PlayerId: 48
+Statistic:81-30-87
+Alpha0.48
+
+PlayerId: 49
+Statistic:81-30-87
+Alpha0.49
+
+PlayerId: 76
+Statistic:73-33-92
+Alpha0.76
+
+PlayerId: 77
+Statistic:73-33-92
+Alpha0.77
+
+PlayerId: 78
+Statistic:73-33-92
+Alpha0.78
+
+PlayerId: 79
+Statistic:73-33-92
+Alpha0.79
+
+PlayerId: 80
+Statistic:73-33-92
+Alpha0.8
+
+PlayerId: 81
+Statistic:73-33-92
+Alpha0.81
+
+PlayerId: 82
+Statistic:73-33-92
+Alpha0.8200000000000001
+
+PlayerId: 83
+Statistic:73-33-92
+Alpha0.8300000000000001
+
+PlayerId: 84
+Statistic:73-33-92
+Alpha0.84
+
+PlayerId: 85
+Statistic:73-33-92
+Alpha0.85
+
+PlayerId: 86
+Statistic:73-33-92
+Alpha0.86
+
+PlayerId: 87
+Statistic:73-33-92
+Alpha0.87
+
+PlayerId: 88
+Statistic:73-33-92
+Alpha0.88
+
+PlayerId: 89
+Statistic:73-33-92
+Alpha0.89
+
+PlayerId: 90
+Statistic:73-33-92
+Alpha0.9
+
+PlayerId: 91
+Statistic:73-33-92
+Alpha0.91
+
+PlayerId: 92
+Statistic:73-33-92
+Alpha0.92
+
+PlayerId: 93
+Statistic:73-33-92
+Alpha0.93
+
+PlayerId: 94
+Statistic:73-33-92
+Alpha0.9400000000000001
+
+PlayerId: 95
+Statistic:73-33-92
+Alpha0.9500000000000001
+
+PlayerId: 96
+Statistic:73-33-92
+Alpha0.96
+
+PlayerId: 97
+Statistic:73-33-92
+Alpha0.97
+
+PlayerId: 98
+Statistic:73-33-92
+Alpha0.98
+
+PlayerId: 99
+Statistic:73-33-92
+Alpha0.99
+
+PlayerId: 19
+Statistic:72-86-40
+Alpha0.19
+
+PlayerId: 17
+Statistic:72-85-41
+Alpha0.17
+
+PlayerId: 18
+Statistic:72-85-41
+Alpha0.18
+
+PlayerId: 12
+Statistic:37-88-73
+Alpha0.12
+
+PlayerId: 21
+Statistic:15-168-15
+Alpha0.21
+
+PlayerId: 20
+Statistic:15-167-16
+Alpha0.2
+
+PlayerId: 22
+Statistic:15-167-16
+Alpha0.22
+
+PlayerId: 23
+Statistic:15-167-16
+Alpha0.23
+
+PlayerId: 24
+Statistic:15-167-16
+Alpha0.24
+
+PlayerId: 25
+Statistic:14-167-17
+Alpha0.25
+
+PlayerId: 28
+Statistic:14-102-82
+Alpha0.28
+
+PlayerId: 29
+Statistic:14-102-82
+Alpha0.29
+
+PlayerId: 30
+Statistic:14-102-82
+Alpha0.3
+
+PlayerId: 31
+Statistic:14-102-82
+Alpha0.31
+
+PlayerId: 26
+Statistic:14-101-83
+Alpha0.26
+
+PlayerId: 27
+Statistic:14-101-83
+Alpha0.27
+
+PlayerId: 13
+Statistic:13-154-31
+Alpha0.13
+
+PlayerId: 14
+Statistic:13-154-31
+Alpha0.14
+
+PlayerId: 32
+Statistic:5-102-91
+Alpha0.32
