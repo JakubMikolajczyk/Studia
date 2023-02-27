@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p9", "p9\p9.csproj", "{05393E55-00C0-483B-A00B-9A0380A04054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p9Tests", "p9Tests\p9Tests.csproj", "{A1959FC6-C09E-409F-8426-ECACCD28F697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05393E55-00C0-483B-A00B-9A0380A04054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05393E55-00C0-483B-A00B-9A0380A04054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05393E55-00C0-483B-A00B-9A0380A04054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05393E55-00C0-483B-A00B-9A0380A04054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1959FC6-C09E-409F-8426-ECACCD28F697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1959FC6-C09E-409F-8426-ECACCD28F697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1959FC6-C09E-409F-8426-ECACCD28F697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1959FC6-C09E-409F-8426-ECACCD28F697}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

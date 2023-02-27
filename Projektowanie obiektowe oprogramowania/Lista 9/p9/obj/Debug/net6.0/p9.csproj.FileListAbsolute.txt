@@ -1,0 +1,15 @@
+/Users/jakubmikolajczyk/RiderProjects/POO/p9/p9/obj/Debug/net6.0/p9.csproj.AssemblyReference.cache
+/Users/jakubmikolajczyk/RiderProjects/POO/p9/p9/obj/Debug/net6.0/p9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubmikolajczyk/RiderProjects/POO/p9/p9/obj/Debug/net6.0/p9.AssemblyInfoInputs.cache
+/Users/jakubmikolajczyk/RiderProjects/POO/p9/p9/obj/Debug/net6.0/p9.AssemblyInfo.cs
+/Users/jakubmikolajczyk/RiderProjects/POO/p9/p9/obj/Debug/net6.0/p9.csproj.CoreCompileInputs.cache
+/Users/jakubmikolajczyk/RiderProjects/POO/p9/p9/bin/Debug/net6.0/p9
+/Users/jakubmikolajczyk/RiderProjects/POO/p9/p9/bin/Debug/net6.0/p9.deps.json
+/Users/jakubmikolajczyk/RiderProjects/POO/p9/p9/bin/Debug/net6.0/p9.runtimeconfig.json
+/Users/jakubmikolajczyk/RiderProjects/POO/p9/p9/bin/Debug/net6.0/p9.dll
+/Users/jakubmikolajczyk/RiderProjects/POO/p9/p9/bin/Debug/net6.0/p9.pdb
+/Users/jakubmikolajczyk/RiderProjects/POO/p9/p9/obj/Debug/net6.0/p9.dll
+/Users/jakubmikolajczyk/RiderProjects/POO/p9/p9/obj/Debug/net6.0/refint/p9.dll
+/Users/jakubmikolajczyk/RiderProjects/POO/p9/p9/obj/Debug/net6.0/p9.pdb
+/Users/jakubmikolajczyk/RiderProjects/POO/p9/p9/obj/Debug/net6.0/p9.genruntimeconfig.cache
+/Users/jakubmikolajczyk/RiderProjects/POO/p9/p9/obj/Debug/net6.0/ref/p9.dll

@@ -1,0 +1,15 @@
+/Users/jakubmikolajczyk/RiderProjects/POO/p5/p5/obj/Debug/net6.0/p5.csproj.AssemblyReference.cache
+/Users/jakubmikolajczyk/RiderProjects/POO/p5/p5/obj/Debug/net6.0/p5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubmikolajczyk/RiderProjects/POO/p5/p5/obj/Debug/net6.0/p5.AssemblyInfoInputs.cache
+/Users/jakubmikolajczyk/RiderProjects/POO/p5/p5/obj/Debug/net6.0/p5.AssemblyInfo.cs
+/Users/jakubmikolajczyk/RiderProjects/POO/p5/p5/obj/Debug/net6.0/p5.csproj.CoreCompileInputs.cache
+/Users/jakubmikolajczyk/RiderProjects/POO/p5/p5/bin/Debug/net6.0/p5
+/Users/jakubmikolajczyk/RiderProjects/POO/p5/p5/bin/Debug/net6.0/p5.deps.json
+/Users/jakubmikolajczyk/RiderProjects/POO/p5/p5/bin/Debug/net6.0/p5.runtimeconfig.json
+/Users/jakubmikolajczyk/RiderProjects/POO/p5/p5/bin/Debug/net6.0/p5.dll
+/Users/jakubmikolajczyk/RiderProjects/POO/p5/p5/bin/Debug/net6.0/p5.pdb
+/Users/jakubmikolajczyk/RiderProjects/POO/p5/p5/obj/Debug/net6.0/p5.dll
+/Users/jakubmikolajczyk/RiderProjects/POO/p5/p5/obj/Debug/net6.0/refint/p5.dll
+/Users/jakubmikolajczyk/RiderProjects/POO/p5/p5/obj/Debug/net6.0/p5.pdb
+/Users/jakubmikolajczyk/RiderProjects/POO/p5/p5/obj/Debug/net6.0/p5.genruntimeconfig.cache
+/Users/jakubmikolajczyk/RiderProjects/POO/p5/p5/obj/Debug/net6.0/ref/p5.dll

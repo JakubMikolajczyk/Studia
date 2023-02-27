@@ -1,0 +1,15 @@
+/Users/jakubmikolajczyk/RiderProjects/POO/p4/p4/bin/Debug/net6.0/p4
+/Users/jakubmikolajczyk/RiderProjects/POO/p4/p4/bin/Debug/net6.0/p4.deps.json
+/Users/jakubmikolajczyk/RiderProjects/POO/p4/p4/bin/Debug/net6.0/p4.runtimeconfig.json
+/Users/jakubmikolajczyk/RiderProjects/POO/p4/p4/bin/Debug/net6.0/p4.dll
+/Users/jakubmikolajczyk/RiderProjects/POO/p4/p4/bin/Debug/net6.0/p4.pdb
+/Users/jakubmikolajczyk/RiderProjects/POO/p4/p4/obj/Debug/net6.0/p4.csproj.AssemblyReference.cache
+/Users/jakubmikolajczyk/RiderProjects/POO/p4/p4/obj/Debug/net6.0/p4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubmikolajczyk/RiderProjects/POO/p4/p4/obj/Debug/net6.0/p4.AssemblyInfoInputs.cache
+/Users/jakubmikolajczyk/RiderProjects/POO/p4/p4/obj/Debug/net6.0/p4.AssemblyInfo.cs
+/Users/jakubmikolajczyk/RiderProjects/POO/p4/p4/obj/Debug/net6.0/p4.csproj.CoreCompileInputs.cache
+/Users/jakubmikolajczyk/RiderProjects/POO/p4/p4/obj/Debug/net6.0/p4.dll
+/Users/jakubmikolajczyk/RiderProjects/POO/p4/p4/obj/Debug/net6.0/refint/p4.dll
+/Users/jakubmikolajczyk/RiderProjects/POO/p4/p4/obj/Debug/net6.0/p4.pdb
+/Users/jakubmikolajczyk/RiderProjects/POO/p4/p4/obj/Debug/net6.0/p4.genruntimeconfig.cache
+/Users/jakubmikolajczyk/RiderProjects/POO/p4/p4/obj/Debug/net6.0/ref/p4.dll
