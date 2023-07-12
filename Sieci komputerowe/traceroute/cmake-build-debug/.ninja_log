@@ -1,0 +1,17 @@
+# ninja log v5
+1	39	1679379424676953109	traceroute	5e69955b7e535767
+1	147	1679370820183486617	CMakeFiles/traceroute.dir/main.c.o	73d39906bb6324da
+1	36	1679379396020791274	CMakeFiles/traceroute.dir/reciver.c.o	87ac1391e6a5d0a5
+0	44	1679379692189190579	build.ninja	3d5112945e70861
+1	34	1679379396018635048	CMakeFiles/traceroute.dir/sender.c.o	f0f6e76b10d660e7
+1	32	1679379411558890431	CMakeFiles/traceroute.dir/traceroute.c.o	50766830fc96bbf4
+1	40	1679379730813211325	CMakeFiles/traceroute.dir/main.c.o	73d39906bb6324da
+1	40	1679379730813629433	CMakeFiles/traceroute.dir/sender.c.o	f0f6e76b10d660e7
+1	40	1679379730813985586	CMakeFiles/traceroute.dir/traceroute.c.o	50766830fc96bbf4
+1	40	1679379730814379820	CMakeFiles/traceroute.dir/reciver.c.o	87ac1391e6a5d0a5
+40	71	1679379730845843593	traceroute	696eaff9fb1c3d5a
+0	44	1679381459573784835	CMakeFiles/traceroute.dir/traceroute.c.o	50766830fc96bbf4
+1	45	1679381459575096274	CMakeFiles/traceroute.dir/reciver.c.o	87ac1391e6a5d0a5
+45	80	1679381459612265173	traceroute	696eaff9fb1c3d5a
+0	39	1679381651468661589	CMakeFiles/traceroute.dir/reciver.c.o	87ac1391e6a5d0a5
+39	71	1679381651502050622	traceroute	696eaff9fb1c3d5a
